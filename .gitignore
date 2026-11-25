@@ -23,3 +23,6 @@ env/
 .idea/
 .vscode/
 *.swp
+
+# 本地环境变量（含 AI API Key，切勿提交）
+.env
